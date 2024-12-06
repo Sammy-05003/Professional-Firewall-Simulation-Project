@@ -1,0 +1,10 @@
+{
+  "name": "firewall-simulation",
+  "version": "1.0.0",
+  "description": "A professional rule-based firewall simulation with IP, port, and protocol filtering",
+  "main": "src/main.py",
+  "scripts": {
+    "start": "python src/main.py",
+    "test": "python -m unittest discover tests"
+  }
+}
